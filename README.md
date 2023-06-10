@@ -1,19 +1,3 @@
-# Food Donation Management System
-
-A web application which is useful for management of food donation and collection activities.  
-[View Demo](https://food-aid.onrender.com/)
-
-<img src="https://user-images.githubusercontent.com/86913048/226953269-e6ae0484-ab78-4c77-b199-aef793502d8d.png" width="70%">
-
-## Table of Contents
-
-- [Features](#features)
-- [Technologies used](#technologies-used)
-- [npm packages used](#npm-packages-used)
-- [Prerequisites](#prerequisites)
-- [Installation and setup](#installation-and-setup)
-- [Useful Links](#useful-links)
-- [Contact](#contact)
 
 ## Features
 
@@ -49,17 +33,6 @@ A web application which is useful for management of food donation and collection
 - Agents can mark their collection upon collection of food from donor's home.
 - Agents can also view all those food donations which have been collected by them previously.
 - Agents can update their profile.
-
-## Technologies used
-
-- HTML
-- CSS
-- Bootstrap
-- Javascript
-- Node.js
-- Express.js
-- Mongodb
-- ejs
 
 ## npm packages used
 
@@ -99,22 +72,4 @@ For running the application:
    ```
 4. Open http://localhost:5000
 5. You need to first signup and then login to run the application.
-
-## Useful Links
-
-- Demo: https://food-aid-aayush.herokuapp.com/
-- Github Repo: https://github.com/aayush301/Food-donation-management-system
-- Nodejs download: https://nodejs.org/
-- VS Code download: https://code.visualstudio.com/
-- Tutorials: https://www.w3schools.com/
-- npmjs docs: https://docs.npmjs.com/
-- Expressjs docs: https://expressjs.com/
-- Bootstrap docs: https://getbootstrap.com/docs/5.1/getting-started/introduction/
-- Mongoosejs docs: https://mongoosejs.com/docs/index.html
-- Mongodb atlas: https://www.mongodb.com/cloud/atlas/register
-- Mongodb docs: https://docs.mongodb.com/manual/introduction/
-- Nodemailer docs: https://nodemailer.com/
-- Github docs: https://docs.github.com/en/get-started/quickstart/hello-world
-- Git cheatsheet: https://education.github.com/git-cheat-sheet-education.pdf
-- VS Code keyboard shortcuts: https://code.visualstudio.com/shortcuts/keyboard-shortcuts-windows.pdf
 
